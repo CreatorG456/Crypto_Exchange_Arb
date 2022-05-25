@@ -1,7 +1,7 @@
 # crypto_exchange_arb
 
 # **Summary**
-Identifying and profiting from Etherium arbitrage opportunities utilizing different volatility and cost structures.
+Identifying and profiting from Ethereum arbitrage opportunities utilizing different volatility and cost structures.
 
 # **Technologies**
 This project leverages Python 3.7 in Google Colab with the following libraries:
@@ -22,4 +22,4 @@ This notebook allows users to analyze cryptocurrency arbitrage between two diffe
 In the instance one would like to access the project via Google Colab and the project cannot be viewed in this Repository, please use the following link: https://colab.research.google.com/drive/1VR_tB72llZd6Cu_WM55Dq-GvJDKYdd20?authuser=2#scrollTo=6WcA1dpUxkhC
 
 # **Contributors**
-Kanika Sharma (ksharmaconnect3@gmail.com), Jason Muenzen (jmuenzen@gmail.com), Max Gregory (maximillian.gregory@gmail.com), Rabia Talib (rabiatalib@icloud.com),
+ Max Gregory (maximillian.gregory@gmail.com), Kanika Sharma (ksharmaconnect3@gmail.com), Jason Muenzen (jmuenzen@gmail.com), Rabia Talib (rabiatalib@icloud.com),
